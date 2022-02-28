@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sajibnath360
 -    A front-end web developer
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack web development
+- 🌱 learning full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sajibnath360@gmail.com
 
